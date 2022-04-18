@@ -2,7 +2,7 @@
 
 Plan to discuss the temporal misalignment for NLP models on amazon reviews sentiment analysis.
 The dataset could be accessed from my kaggle website:
-https://www.kaggle.com/datasets/haoboxu/amazon-reviews-sentiment-analysis
+https://www.kaggle.com/datasets/haoboxu/amazon-reviews-for-sentiment-analysis
 
 ## Reference
 Amazon Review Data (2018)
